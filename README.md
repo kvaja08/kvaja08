@@ -48,12 +48,6 @@ https://profiles.wordpress.org/komalvaja/
 * Automated Testing for WordPress
 * Open Source Plugin Development
 
-## 📈 GitHub Stats
-
-![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvaja08\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvaja08\&layout=compact)
-
 ## 🤝 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/komalvaja/
